@@ -1,6 +1,5 @@
 -- ============================================================
--- MOTUS — Script d'initialisation de la base de données
--- À exécuter dans phpMyAdmin ou via MySQL en ligne de commande
+-- MOTUS — Script d'initialisation de la base de données 
 -- ============================================================
 
 -- 1. Créer la base de données
