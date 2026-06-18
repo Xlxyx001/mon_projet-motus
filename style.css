@@ -31,7 +31,7 @@ body {
   flex-direction: column;
 }
 
-/* ── HEADER ────*/
+/* ── HEADER ─*/
 .header {
   background: linear-gradient(135deg, var(--blue-dark) 0%, var(--blue-mid) 100%);
   padding: .9rem 1.5rem;
