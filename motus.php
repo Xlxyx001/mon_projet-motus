@@ -129,7 +129,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['guess'])) {
     </div>
     <?php endif; ?>
 
-    <!-- Clavier virtuel -->
+    <!-- Clavier -->
     <div class="keyboard" id="keyboard">
       <?php
       $rows = [
