@@ -1,6 +1,6 @@
 /**
  * MOTUS — script.js
- * Gère : saisie clavier physique + virtuel, envoi AJAX, animations tuiles, mise à jour clavier
+ * pour la gestion du : saisie clavier physique + virtuel, envoi AJAX, animations tuiles, mise à jour clavier
  */
 
 document.addEventListener('DOMContentLoaded', () => {
