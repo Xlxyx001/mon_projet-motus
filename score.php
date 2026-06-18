@@ -96,7 +96,7 @@ try {
   </main>
 
   <footer class="footer">
-    <p>MOTUS · &nbsp;|&nbsp; <a href="motus.php">Retour au jeu</a></p>
+    <p>MOTUS · &nbsp;|&nbsp; <a href="motus.php">Retour au jeu .</a></p>
   </footer>
 
 </body>
