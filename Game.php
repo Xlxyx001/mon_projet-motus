@@ -1,3 +1,4 @@
+
 <?php
 class Game {
     private string $secretWord;
